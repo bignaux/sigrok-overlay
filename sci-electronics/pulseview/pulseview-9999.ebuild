@@ -2,7 +2,7 @@
 # Distributed under the terms of the GNU General Public License v2
 # $Header: $
 
-EAPI=4
+EAPI=5
 
 PYTHON_COMPAT=( python3_{2,3,4} )
 inherit eutils cmake-utils python-single-r1
